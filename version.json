@@ -1,5 +1,7 @@
 {
   "version": "1.0",
   "download_url": "https://github.com/slyk55/alien-assistant-updates/releases/download/v1.0/AlienAssistant.exe",
-  "changelog": "Versão Inicial 1.0"
+  "launcher_version": "1.0",
+  "launcher_url": "https://github.com/slyk55/alien-assistant-updates/releases/download/v1.0/Launcher.exe",
+  "changelog": "Adicionado Termos de Uso, Icone HD e Sistema de Auto-Update Completo"
 }
